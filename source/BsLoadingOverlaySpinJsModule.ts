@@ -4,6 +4,6 @@ export default angular.module('bsLoadingOverlaySpinJs', ['angularSpinner'])
         ($templateCache: ng.ITemplateCacheService) =>
             $templateCache.put(
                 'bsLoadingOverlaySpinJs',
-                '<div us-spinner="bsLoadingOverlayTemplateOptions"></div>'
+                '<div us-spinner="{{bsLoadingOverlayTemplateOptions}}"></div>'
             )
     ]);

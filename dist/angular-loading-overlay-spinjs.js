@@ -50,7 +50,7 @@
 	    .run([
 	    '$templateCache',
 	    function ($templateCache) {
-	        return $templateCache.put('bsLoadingOverlaySpinJs', '<div us-spinner="bsLoadingOverlayTemplateOptions"></div>');
+	        return $templateCache.put('bsLoadingOverlaySpinJs', '<div us-spinner="{{bsLoadingOverlayTemplateOptions}}"></div>');
 	    }
 	]);
 
