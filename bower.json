@@ -4,7 +4,7 @@
   "authors": [
     "Alexander Beshchuk <bs.alex.mail@gmail.com>"
   ],
-  "description": "Directive to manipulate overlays on async operations.",
+  "description": "Angular loading overlay integration with SpinJS",
   "main": "dist/angular-loading-overlay-spin.js",
   "keywords": [
     "angular",
@@ -20,8 +20,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "spin.js": "~2.3.2"
-  }
+  ]
 }
