@@ -1,6 +1,6 @@
 {
   "name": "angular-loading-overlay-spinjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular loading overlay integration with SpinJS",
   "repository": {
     "type": "git",
