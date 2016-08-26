@@ -5,7 +5,7 @@
     "Alexander Beshchuk <bs.alex.mail@gmail.com>"
   ],
   "description": "Angular loading overlay integration with SpinJS",
-  "main": "dist/angular-loading-overlay-spin.js",
+  "main": "dist/angular-loading-overlay-spinjs.js",
   "keywords": [
     "angular",
     "loading",
